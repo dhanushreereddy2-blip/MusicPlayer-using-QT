@@ -97,6 +97,3 @@ Metadata and artwork availability depends on the audio file and the multimedia b
 
 **Dhanushree Reddy**
 
----
-
-⭐ If you find this project useful, feel free to explore the code and suggest improvements.
